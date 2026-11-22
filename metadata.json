@@ -1,0 +1,6 @@
+{
+  "name": "Endpoint Generator",
+  "description": "Enterprise Database-to-REST API Gateway for exposing tables, views, functions, and stored procedures with collection-level auth, versioning, resilience policies, live documentation, and execution profiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
